@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Susmita692
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Power BI Portfolio Projects
+Power Bi PostgreSQL    Canva PPT MS OFFICE EXCEL GOOGLE SHEETS VSCODE Figma PREZI SQL Server GITHUB ACTIONS WINDOWS TERMINAL
 
-<!---
-Susmita692/Susmita692 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my personal Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI.
+
+About Me
+I am a passionate data enthusiast with a strong background in Power BI. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually. 
