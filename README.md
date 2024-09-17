@@ -21,3 +21,6 @@ Welcome to my personal Power BI portfolio repository! Here you will find a colle
 
 ## About Me
 I am a passionate data enthusiast with a strong background in Power BI. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually.
+
+## [Project 1: Sales Dashboard]
+
